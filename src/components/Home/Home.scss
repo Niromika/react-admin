@@ -1,0 +1,20 @@
+.Home {
+    text-align: center;
+
+    .number {
+        font-size: 30px;
+    }
+
+    button {
+        margin: 5px;
+        border-radius: 50%;
+        width: 40px;
+        height: 40px;
+            &:hover {
+                background: #000000;
+                color: #fff;
+            }
+    }
+}
+
+
